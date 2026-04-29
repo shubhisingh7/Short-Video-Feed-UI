@@ -22,11 +22,6 @@ Short Video Feed ui/
  ├── script.js
  └── videos/
 
-## 🌐 Live Demo
-(Will be added after deployment)
-
-## 📸 Screenshots
-(Add screenshots here)
 
 ## 💡 Future Improvements
 - Backend integration
